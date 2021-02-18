@@ -2,7 +2,7 @@ def add_a_and_b(a, b):
     return a + b
 
 
-def mainas_a_and_b(a, b):
+def minus_a_and_b(a, b):
     return a - b
 
 a = 1
